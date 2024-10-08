@@ -7,3 +7,12 @@ Linguagens utilizadas no projeto:
 
 <br>
 
+  <img align="center" alt="Livea-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+  <img align="center" alt="Livea-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Livea-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+
+  <br>
+
+  IDE usada para o desenvolvimento do projeto:
+
+<img align="center" alt="Livea-eclipse" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/eclipse-original.svg">
